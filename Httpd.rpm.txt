@@ -1,0 +1,9 @@
+yum install -y libaprutil-1.so.0
+yum install -y apr-*
+yum install -y lib*
+rpm -ivh httpd-2.4.4-1.x86_64.rpm
+ll
+cd /etc/httpd/
+ll
+cd conf
+ll
